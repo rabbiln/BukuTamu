@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buku Tamu_RabbilNurrahmat</string>
+    <string name="buku_tamu">BUKU TAMU</string>
+    <string-array name="jenis_kelamin">
+        <item>Pilih Kelamin</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>
